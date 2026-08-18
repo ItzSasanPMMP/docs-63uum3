@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-27b1km.nuansa138.online/sitemap.xml
